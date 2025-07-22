@@ -3,7 +3,7 @@
 Bu proje, beyin tümörlerinin MRI (Manyetik Rezonans Görüntüleme) verileri üzerinden otomatik olarak sınıflandırılmasını hedeflemektedir. Derin öğrenme teknikleri kullanılarak sıfırdan geliştirilen bir Convolutional Neural Network (CNN) modeli ile Brain_Glioma, Brain_Menin (Meninjiyom) ve Brain_Tumor (genel tümör) sınıflarına ait beyin MR görüntüleri sınıflandırılmıştır.
 
 <p align="center">
-  <img src="f822ba7e-dc82-45e0-b1f7-67c7cfb65e9c.png" alt="Test Doğruluğu" width="300"/>
+  <img src="test_dogrulugu.png" alt="Test Doğruluğu" width="300"/>
 </p>
 
 > 📌 **Test Doğruluğu: %99.01** — Model, test verisi üzerinde oldukça yüksek bir başarıya ulaşmıştır.
